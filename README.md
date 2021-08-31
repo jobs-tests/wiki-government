@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# WikiGovernment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a [React](https://github.com/facebook/create-react-app) based application powered by [wikipedia API](https://www.mediawiki.org/wiki/API:Main_page#API_documentation) to help you find heads of government from all UN recognized countries.
 
 ## Available Scripts
 
